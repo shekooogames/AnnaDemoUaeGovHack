@@ -1,17 +1,7 @@
-# Ionic 3 Starter Template
+# Anna - UAE Gov Hack Demo
 
-This template is the tabs-starter with some additional work. It contains a set of different custom components and a simple http call to a JSON file.
-Furthermore, it has search implemented with a loader that shows up before the data has been rendered.
-There is no platform specific styling on any component other than the basic differences implemented in Ionic 3.
-
-![Imgur](http://i.imgur.com/c7QHVQ3.gif)
-
-## Getting Started
-
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release here](https://github.com/kristofferandreasen/simple-ionic-3-app/archive/master.zip)
-* Clone the repo: `git clone https://github.com/kristofferandreasen/simple-ionic-3-app.git`
-* Fork the repo
+This repo has the codes for the Smart Plant Pi, Smart Video Car, Smart Autonomous car and the front-end app code in Ionic, Angular 4, node Js
+ 
 
 ## Project Structure
 
@@ -55,16 +45,12 @@ The project is started with the regular ionic commands.
 2. Run `ionic serve` to start the development environment.
 3. To build the project run `ionic build android` or `ionic build ios`. In order for you to build an iOS app, you need to run on MacOS.
 
-An alternative is to emulate the app on a device or upload it to the ionic cloud. From here you can download the ionic view app and use the app on all devices.
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/kristofferandreasen/simple-ionic-3-app/issues) here on Github.
 
 ## Creator
 
-The template was created by and is maintained by **[Kristoffer Andreasen](https://medium.com/@kristoffer_andreasen)**
+Abhishek Gupta
 
 ## Copyright and License
 
-Copyright 2017 Kristoffer Andreasen. Code released under the [MIT](https://github.com/kristofferandreasen/simple-ionic-3-app/blob/master/LICENSE) license.
+Copyright 2017  Shekoo LLC
